@@ -14,7 +14,7 @@ git checkout -b main **or** git checkout main **or** git checkout -M main
 
 git status
 
-git remote add origin 
+git remote add origin https://github.com/AravindBS09/AutomationCICDDemo.git
 
 git push -u origin main
 
